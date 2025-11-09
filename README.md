@@ -115,5 +115,5 @@ Ce projet est sous licence [MIT](LICENSE)
 ---
 
 <div align="center">
-Développé avec ❤️ par Ayoub
+Développé avec ❤️ par Ayoub MOURADI
 </div>
