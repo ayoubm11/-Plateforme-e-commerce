@@ -1,0 +1,6 @@
+[submodule "ecom_front"]
+	path = ecom_front
+	url = https://github.com/ayoubm11/ecom_front.git
+[submodule "ecom-back"]
+	path = ecom-back
+	url = https://github.com/ayoubm11/ecom-back.git
